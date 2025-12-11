@@ -1,0 +1,401 @@
+{
+    "key": 3950054,
+    "left": {
+        "key": 1834332,
+        "left": {
+            "key": 1409522,
+            "left": {
+                "key": 336670,
+                "left": {
+                    "key": 213262,
+                    "left": {
+                        "key": 58775,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "key": 233204,
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "key": 808568,
+                    "left": {
+                        "key": 800625,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "key": 912766,
+                        "left": null,
+                        "right": {
+                            "key": 1068422,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            },
+            "right": {
+                "key": 1607096,
+                "left": {
+                    "key": 1505067,
+                    "left": {
+                        "key": 1445082,
+                        "left": {
+                            "key": 1432489,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 1509108,
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "key": 1697287,
+                    "left": {
+                        "key": 1634247,
+                        "left": null,
+                        "right": {
+                            "key": 1686466,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "key": 1814428,
+                        "left": {
+                            "key": 1797901,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                }
+            }
+        },
+        "right": {
+            "key": 3086845,
+            "left": {
+                "key": 2534320,
+                "left": {
+                    "key": 2105643,
+                    "left": {
+                        "key": 2057731,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "key": 2212515,
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "key": 2616749,
+                    "left": {
+                        "key": 2559681,
+                        "left": {
+                            "key": 2558644,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 2814479,
+                        "left": {
+                            "key": 2725586,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 2833057,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            },
+            "right": {
+                "key": 3635192,
+                "left": {
+                    "key": 3325824,
+                    "left": {
+                        "key": 3236156,
+                        "left": {
+                            "key": 3153630,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 3257876,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "key": 3451613,
+                        "left": {
+                            "key": 3415303,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                },
+                "right": {
+                    "key": 3672131,
+                    "left": {
+                        "key": 3638123,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "key": 3785070,
+                        "left": {
+                            "key": 3683122,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                }
+            }
+        }
+    },
+    "right": {
+        "key": 6607898,
+        "left": {
+            "key": 5488789,
+            "left": {
+                "key": 4915612,
+                "left": {
+                    "key": 4287211,
+                    "left": {
+                        "key": 4193538,
+                        "left": {
+                            "key": 4004474,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 4572371,
+                        "left": {
+                            "key": 4361553,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 4816485,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "key": 5112346,
+                    "left": {
+                        "key": 4968282,
+                        "left": {
+                            "key": 4936207,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 5007853,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "key": 5295081,
+                        "left": {
+                            "key": 5249422,
+                            "left": {
+                                "key": 5116822,
+                                "left": null,
+                                "right": null
+                            },
+                            "right": {
+                                "key": 5251633,
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "key": 5458383,
+                            "left": null,
+                            "right": {
+                                "key": 5488484,
+                                "left": null,
+                                "right": null
+                            }
+                        }
+                    }
+                }
+            },
+            "right": {
+                "key": 5912114,
+                "left": {
+                    "key": 5651886,
+                    "left": {
+                        "key": 5510734,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "key": 5834115,
+                        "left": null,
+                        "right": {
+                            "key": 5888727,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "key": 6484464,
+                    "left": {
+                        "key": 6113790,
+                        "left": null,
+                        "right": {
+                            "key": 6201668,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "key": 6545976,
+                        "left": null,
+                        "right": {
+                            "key": 6605998,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "key": 8331048,
+            "left": {
+                "key": 7423639,
+                "left": {
+                    "key": 7149550,
+                    "left": {
+                        "key": 6646468,
+                        "left": {
+                            "key": 6632640,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 7331434,
+                        "left": {
+                            "key": 7209990,
+                            "left": null,
+                            "right": {
+                                "key": 7232285,
+                                "left": null,
+                                "right": null
+                            }
+                        },
+                        "right": {
+                            "key": 7340964,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "key": 7890810,
+                    "left": {
+                        "key": 7632216,
+                        "left": {
+                            "key": 7531388,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 7866152,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "key": 8045488,
+                        "left": {
+                            "key": 7968160,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 8276226,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            },
+            "right": {
+                "key": 9077779,
+                "left": {
+                    "key": 8689284,
+                    "left": {
+                        "key": 8518447,
+                        "left": {
+                            "key": 8357502,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 8881272,
+                        "left": {
+                            "key": 8853356,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                },
+                "right": {
+                    "key": 9650454,
+                    "left": {
+                        "key": 9394095,
+                        "left": {
+                            "key": 9169998,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "key": 9793368,
+                        "left": {
+                            "key": 9770086,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "key": 9941571,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
